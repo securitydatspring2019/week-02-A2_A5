@@ -36,9 +36,9 @@ See the [possible exam questions](https://docs.google.com/document/d/1-Hpf98pKwW
 
 ### What to read
 
-- Read the OWASP Description for [A7](https://www.owasp.org/index.php/Top_10-2017_A7-Cross-Site_Scripting_(XSS))
-- Read/skim the OWASP [XSS Prevention Cheat Sheet](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet)
-- Read/skim the article the [Cheat Sheet related to session management](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet)
+- Read the OWASP Description for [A7](https://www.owasp.org/index.php/Top_10-2017_A7-Cross-Site_Scripting_(XSS)) (10 min.)
+- Read/skim the OWASP [XSS Prevention Cheat Sheet](https://www.owasp.org/index.php/XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet) (5-10 min. - skim only)
+- Read/skim the article the [Cheat Sheet related to session management](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet) (same as for day-1)
 
 - **Important** Watch this [video](https://www.youtube.com/watch?v=cbmBDiR6WaY) (7 min.) about Cross Site Scripting and Session Hijacking. Play close attention to the malicious scripts used in this video, since you will be expected to attack a “similar” site Friday, and implement a “similar” proof of concept server by yourself
 
