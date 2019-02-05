@@ -10,7 +10,7 @@ At first, it might seem like there are an awful lot to read, but totally it sums
 - Read the OWASP description for [A2](https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication) (10 min.)
 - Read about [credential stuffing](https://www.owasp.org/index.php/Credential_stuffing) (5 min.)
 - Read/skim some of the references given in [A2](https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication). You should distribute the “readings” among your group, since one of the exercises for day-1, will be to explain what you have read, to the rest of your group.
-- Make sure that you all skim the [Cheat Sheet related to session management](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet), since this is where we will focus our practical attacks day-2
+- Make sure that you all read/skim (10-15 min.) the [Cheat Sheet related to session management](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet), since this is where we will focus our practical attacks day-2
 
 #### Watch
 If you prefer to watch/listen [this video](https://www.youtube.com/watch?v=R1iGRBG3PJ8) is short but still pretty informative
