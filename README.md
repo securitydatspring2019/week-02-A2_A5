@@ -16,7 +16,7 @@ At first, it might seem like there are an awful lot to read, but totally it sums
 If you prefer to watch/listen [this video](https://www.youtube.com/watch?v=R1iGRBG3PJ8) is short but still pretty informative
 
 #### A5
-- Read the OWASP description for [A5](https://www.owasp.org/index.php/Top_10-2017_A5-Broken_Access_Control)
+- Read the OWASP description for [A5](https://www.owasp.org/index.php/Top_10-2017_A5-Broken_Access_Control) (5-10 min.)
 - Read/skim some of the references given in [A5](https://www.owasp.org/index.php/Top_10-2017_A5-Broken_Access_Control). You should distribute the “readings” among your group, since one of the exercises for day-1, will be to explain what you have read, to the rest of your group.
 
 #### Extra (watch)
