@@ -47,7 +47,7 @@ See the [possible exam questions](https://docs.google.com/document/d/1-Hpf98pKwW
 
 ### Slides
 
-TBD
+[XSS](http://security.mydemos.dk/security1/security.html#1)
 
 ## Exercises
 [A7, Cross Site Scripting](https://docs.google.com/document/d/1EHVnI0sh9UCHdUpszFTtG_oxtYlOpGImYUimI5CotYY/edit?usp=sharing)
