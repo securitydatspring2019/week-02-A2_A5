@@ -28,6 +28,9 @@ See the [possible exam questions](https://docs.google.com/document/d/1-Hpf98pKwW
 ## Exercises
 [A2 and A5](https://docs.google.com/document/d/1K3kLav9zGgrGQgxLusfan4p7MzMvHvi1AifQT6cG2FM/edit?usp=sharing)
 
+### Slides
+[A2 and A5](https://docs.google.com/presentation/d/1jXw12p8_h7RiLbagnC_Eb-PkAFDNz9xk4gY4e0gd5Ck/edit?usp=sharing)
+
 # Day-2 (Thuersday) A7 Cross-Site Scripting (XSS)
 *Much of the day will be focused aroung a Live Hacker Content. Prepare yourself by watching the video given below. I will set up a simple “hackable” Session based Server. The first one to succeed in stealing a SessionID, and another user's secret information, and explain for the class “the steps involved” wins a GOOD beer :-)*
 
