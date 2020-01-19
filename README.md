@@ -1,6 +1,4 @@
-# Week-2
-
-# Day-1 (Tuesday)  A2 + A5
+# Week-2 OWASP A2+A5
 
 ## What to Read
 
