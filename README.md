@@ -21,7 +21,7 @@ If you prefer to watch/listen [this video](https://www.youtube.com/watch?v=R1iGR
 If you have time, watch [this video (22.min)](https://www.youtube.com/watch?v=94-tlOCApOc) for a lot of "broken authentication" examples
 
 ## Learning Goals
-See the [possible exam questions](https://docs.google.com/document/d/1-Hpf98pKwWW0UwyDYsVAG4G0eSoIcbW4F0PLw_whXBY/edit) for A2 + A5, for the best description of learnings goals for this day
+See the [possible exam questions]https://docs.google.com/document/d/1qh2WISsJIcs3dwQcJJ_Wk9O0qYS5S6sV8YC22InAe7o/edit?usp=sharing) for A2 + A5, for the best description of learnings goals for this day
 
 ## Exercises
 [A2 and A5](https://docs.google.com/document/d/1K3kLav9zGgrGQgxLusfan4p7MzMvHvi1AifQT6cG2FM/edit?usp=sharing)
