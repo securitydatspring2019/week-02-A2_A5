@@ -11,7 +11,7 @@
 - :book: Skim (10-15 min.) the [Cheat Sheet related to session management](https://www.owasp.org/index.php/Session_Management_Cheat_Sheet). In a future lesson, we will "attack" the session implementation on a server.
 
 #### Watch
-[:tv:] If you prefer to watch/listen [this video](https://www.youtube.com/watch?v=R1iGRBG3PJ8) is short but still pretty informative
+:tv: If you prefer to watch/listen [this video](https://www.youtube.com/watch?v=R1iGRBG3PJ8) is short but still pretty informative
 
 #### A5
 - :book: Read the OWASP description for [A5](https://www.owasp.org/index.php/Top_10-2017_A5-Broken_Access_Control) (5-10 min.)
