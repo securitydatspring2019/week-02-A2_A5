@@ -2,7 +2,7 @@
 
 ## What to Read
 
-[:tv: How to prepare yourself for todays lecture, and the matching exam questions 8 min.](https://www.youtube.com/watch?v=gZvBvfuEgyc)
+[:tv: How to prepare yourself for todays lecture, and the matching exam questions 8 min.](https://www.youtube.com/watch?v=VhWB6F47GCw)
 
 #### A2
 - :book: Read the OWASP description for [A2](https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication) (10 min.)
