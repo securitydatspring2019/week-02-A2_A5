@@ -2,7 +2,7 @@
 
 ## What to Read
 
-At first, it might seem like there are an awful lot to read, but totally it sums up to 10-15 pages only, if you distribute the readings among your group as suggested below, so just go ahead a start reading ;-)
+[How to prepare yourself for todays lecture, and the matching exam questions 8 mim.](https://www.youtube.com/watch?v=gZvBvfuEgyc)
 
 #### A2
 - Read the OWASP description for [A2](https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication) (10 min.)
