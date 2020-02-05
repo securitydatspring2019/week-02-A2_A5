@@ -16,9 +16,7 @@
 #### A5
 - :book: Read the OWASP description for [A5](https://www.owasp.org/index.php/Top_10-2017_A5-Broken_Access_Control) (5-10 min.)
 - :book: Read/skim some of the references given in [A5](https://www.owasp.org/index.php/Top_10-2017_A5-Broken_Access_Control). 
-
-#### Extra (watch)
-:tv: If you have time, watch [this video (22.min)](https://www.youtube.com/watch?v=94-tlOCApOc) for a lot of "broken authentication" examples
+- :tv: [Was originally marked as Extra, but it's to good not to be seen (22.min)](https://www.youtube.com/watch?v=94-tlOCApOc) Watch for a lot of "broken authentication" examples
 
 ## Learning Goals
 See the [possible exam questions](https://docs.google.com/document/d/1qh2WISsJIcs3dwQcJJ_Wk9O0qYS5S6sV8YC22InAe7o/edit?usp=sharing) for A2 + A5, for the best description of the learnings goals for this day
