@@ -4,6 +4,11 @@
 
 [:tv: How to prepare yourself for todays lecture, and the matching exam questions 8 min.](https://www.youtube.com/watch?v=VhWB6F47GCw)
 
+### Missing Links
+OWASP har omdesignet de fleste af deres sider, siden sidst jeg var omkring. Den kedelige konsekvens af dette er at mange links nu er "døde" inde i dokumenterne.
+
+Hvis links inde i A2 + A5 beskrivelserne herunder ikke virker kan I finde alle 10 OWASP punkter [her i den gamle udgave](https://wiki.owasp.org/index.php/Category:OWASP_Top_Ten_2017_Project), med fungerende links
+
 #### A2
 - :book: Read the OWASP description for [A2](https://www.owasp.org/index.php/Top_10-2017_A2-Broken_Authentication) (10 min.)
 - :book: Read about [credential stuffing](https://www.owasp.org/index.php/Credential_stuffing) (5 min.)
